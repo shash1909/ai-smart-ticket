@@ -1,5 +1,4 @@
-<h1>🚀 Smart AI Ticketing System</h1>
-
+<h1>Smart AI Ticket System</h1>
 <p>
   A modern <strong>AI-powered ticket management system</strong> built with the MERN stack (MongoDB, Express, React, Node.js),
   enhanced by <strong>Gemini API</strong> for AI insights, <strong>Inngest</strong> for workflows, and <strong>Mailtrap</strong> for transactional emails.
@@ -39,10 +38,10 @@
 
 <h3>1️⃣ Login and Signup Page</h3>
 <p>
-  <img width="1415" alt="image" src="https://github.com/user-attachments/assets/e0639c73-b4b5-4e6d-926c-3e1e794ae37a" />
+  <img width="1021" alt="image" src="https://github.com/user-attachments/assets/5905ddef-dfba-4637-ba8b-d8e244e0422d" />
 
 
-  <img width="1438" alt="image" src="https://github.com/user-attachments/assets/b02daf3a-d674-4c77-acb1-34807d8ac81e" />
+  <img width="1239" alt="image" src="https://github.com/user-attachments/assets/9b1932f9-6bce-416c-b358-16324c7552eb" />
 
 </p>
 <p>
@@ -52,7 +51,9 @@
 <h3>2️⃣ Submit Ticket</h3>
 
 
-<img width="1435" alt="image" src="https://github.com/user-attachments/assets/fbc8557f-4c16-450f-9e63-23180b8f80ce" />
+
+<img width="1140" alt="image" src="https://github.com/user-attachments/assets/4612d18e-fc45-45e8-8b37-22a2f890aa1f" />
+
 
 
 
@@ -62,14 +63,16 @@
     <li>Suggest skills required</li>
     <li>Set priority & assign moderator if skills match</li>
   </ul>
- <img width="1191" alt="image" src="https://github.com/user-attachments/assets/71cb800e-7867-4004-ab84-a6abe1b65a9b" />
+ <img width="864" alt="image" src="https://github.com/user-attachments/assets/2db9fa03-c4eb-4e61-b974-5ae39a6a65e4" />
+
 
 
 <p>
 </p>
 
 <h3>3️⃣ Admin Panel</h3>
-<img width="1440" alt="image" src="https://github.com/user-attachments/assets/09abe847-5992-4d50-bad6-271bb298e970" />
+<img width="1026" alt="image" src="https://github.com/user-attachments/assets/9308bc35-3c45-466b-b048-755c0dd2e72d" />
+
 
 
 <p>
@@ -77,7 +80,8 @@
 </p>
 
 <h3>🛠️ Moderator Features</h3>
-<img width="1044" alt="image" src="https://github.com/user-attachments/assets/e83def74-0ce2-45f5-8573-52fadd352ab9" />
+<img width="754" alt="image" src="https://github.com/user-attachments/assets/c9ea1c17-f265-4c00-a86b-a5a9861699ae" />
+
 <ul>
   <li>Moderators can view all tickets assigned to them.</li>
   <li>They can update the ticket <strong>status</strong> to:
@@ -92,7 +96,8 @@
 
 <h3>4️⃣ All Tickets View</h3>
 <p>Non logged (not authenticated) in user can also see others' tickets, but cannot create their own.</p>
-<img width="1436" alt="image" src="https://github.com/user-attachments/assets/81a6f208-e2e5-4b3a-b970-7db453c7c985" />
+<img width="1078" alt="image" src="https://github.com/user-attachments/assets/d455faec-3bdf-43d5-8889-e99681fb4623" />
+
 
 <hr>
 
